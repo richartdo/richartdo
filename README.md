@@ -5,8 +5,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Problem+Solver;Building+Scalable+Solutions;Mentoring+%26+Knowledge+Sharing;Always+Learning+%26+Growing)](https://git.io/typing-svg)
-  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AF70B&background=D0FF5100&width=435&lines=Teaching+machines+to+think;Empowering+ideas+with+tech;Innovating+with+data+%26+AI;AI-driven+innovation;Powered+by+the+cloud;Tech+is+my+playground;Decentralized+future+builder)](https://git.io/typing-svg)
 </div>
 
 ---
