@@ -9,6 +9,11 @@
 </div>
 
 ---
+### ☕ Support My Work  
+
+If you like what I do, you can [buy me a coffee](https://buymeacoffee.com/richartdo) ❤️  
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://buymeacoffee.com/richartdo)
 
 ##⚡ **Tech Domains**
 ```typescript
