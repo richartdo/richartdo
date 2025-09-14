@@ -27,7 +27,7 @@ const richartdo = {
 </div>
 
 ---
-## 🛠️ **Tech Arsenal**
+## 🔧 **Technologies I Use**
 
 <div align="center">
 
