@@ -52,6 +52,20 @@ const richartdo = {
 </div>
 
 ---
+## 📈 **GitHub Insights**
+
+<div align="center">
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=richartdo&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richartdo&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
+  
+</div>
+
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=richartdo&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117)
+  
+</div>
 
 ## 🌐 **Connect & Collaborate**
 
