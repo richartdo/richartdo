@@ -15,6 +15,10 @@ Building real-world SaaS products, deploying full-stack apps, and improving my c
   He/Him
 - ⚡ Fun fact:
   I started coding out of curiosity and now I’m building toward launching my own software company.
+
+  ![GitHub Snake Light](https://raw.githubusercontent.com/BonaventureOgeto/BonaventureOgeto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/BonaventureOgeto/BonaventureOgeto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <!--
 **richartdo/richartdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
