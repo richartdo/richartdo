@@ -16,7 +16,7 @@ Building real-world SaaS products, deploying full-stack apps, and improving my c
 - ⚡ Fun fact:
   I started coding out of curiosity and now I’m building toward launching my own software company.
 
- ## 🐍 Contributions Snake
+ ## 🐍 Contributions Snake  
 
 ![Snake Light](https://raw.githubusercontent.com/richartdo/richartdo/output/github-snake.svg#gh-light-mode-only)  
 ![Snake Dark](https://raw.githubusercontent.com/richartdo/richartdo/output/github-snake-dark.svg#gh-dark-mode-only)
